@@ -1,8 +1,8 @@
 fastapi
 uvicorn[standard]
 pillow
-transformers
 torch
 pymongo
 python-multipart
 requests
+open-clip-torch
