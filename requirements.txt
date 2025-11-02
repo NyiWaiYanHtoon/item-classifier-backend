@@ -1,8 +1,13 @@
 fastapi
 uvicorn[standard]
+python-dotenv
 pillow
 torch
 pymongo
 python-multipart
 requests
 open-clip-torch
+ftfy
+numpy
+opencv-python
+scikit-image
